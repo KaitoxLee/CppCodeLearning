@@ -1,2 +1,2 @@
 # CppCodeLearning
-学习C++语法
+关于C++语法学习的仓库
